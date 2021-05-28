@@ -1,5 +1,7 @@
 # Project 2 Systeembeheer
 
+## Dit was een groepswerk aan HoGent voor Projecten 2 - Systeembeheer
+
 ## Groepsleden
 
 | Naam             | GitHub gebruikersnaam                                 |
